@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: test7
+  annotations:
+    github.com/project-slug: chaithanya-ki/test7
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
